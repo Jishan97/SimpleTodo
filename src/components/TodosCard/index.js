@@ -105,7 +105,6 @@ const TodosCard = () => {
                                     style={{
                                         backgroundColor: '#333',
                                         borderColor: '#333',
-                                        transition: '1s ease'
                                     }}
                                 >
                                     <CardTitle tag="h5">
